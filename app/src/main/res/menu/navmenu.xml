@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="传输方式">
+        <menu>
+            <item android:title="网页传" android:icon="@mipmap/ic_launcher"></item>
+        </menu>
+
+    </item>
+</menu>

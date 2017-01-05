@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="buttonStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/buttonstyle</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+
+    <style name="ImageButtonStyle">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:layout_centerVertical">true</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
