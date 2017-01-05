@@ -26,5 +26,6 @@ public class DataRecyclerview extends RecyclerView {
     @Override
     protected void onMeasure(int widthSpec, int heightSpec) {
         super.onMeasure(widthSpec, heightSpec);
+        //
     }
 }
